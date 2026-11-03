@@ -1,46 +1,35 @@
 Hi, I'm Boluwatife Jesutoye 👋
 
-Cybersecurity Professional | Security Operations | Threat Intelligence | Digital Forensics | Network & Infrastructure Security
+Cybersecurity | Security Operations | Threat Intelligence | Digital Forensics | Network & Infrastructure Security
 
-I am a cybersecurity and IT professional with over 10 years of experience across cybersecurity, IT infrastructure, systems engineering and technology operations.
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)" (https://www.linkedin.com/in/boluwatife-jesutoye-729164114)
+""ORCID" (https://img.shields.io/badge/ORCID-0000--0002--4636--4390-green?logo=orcid)" (https://orcid.org/0000-0002-4636-4390)
+""Cybersecurity Portfolio" (https://img.shields.io/badge/Cybersecurity_Portfolio-View_Project-green?logo=github)" (https://github.com/Bjesutoye/cybersecurity-portfolio)
 
-My experience includes managing cybersecurity frameworks, strengthening infrastructure security, conducting IT risk analysis, supporting incident documentation and analysis, managing user access, and delivering cybersecurity training.
+I am a cybersecurity and IT professional with experience across Security Operations, Threat Intelligence, Digital Forensics, Network Security, Infrastructure Security and Cybersecurity Risk Analysis.
 
-I currently work as a Lead IT Manager at Connect International Resources Ltd, where I oversee IT infrastructure operations, cybersecurity initiatives and technology delivery.
+My focus is on strengthening cyber resilience through practical security operations, technical assessment, threat analysis, incident investigation and secure infrastructure.
 
 ---
 
-🛡️ Cybersecurity Focus
+🚀 Currently Working On
 
-My professional and technical interests include:
+- Building and refining a practical cybersecurity portfolio
+- Developing hands-on work across Security Operations and Threat Intelligence
+- Strengthening practical capability in Digital Forensics and Incident Response
+- Building evidence around Network and Infrastructure Security
+- Developing practical Vulnerability Assessment and Ethical Hacking exercises
+
+---
+
+🛡️ Cybersecurity Portfolio
+
+A practical cybersecurity portfolio designed to demonstrate technical cybersecurity capability through labs, investigations, assessments and documented security scenarios.
+
+The portfolio will include practical work covering areas such as:
 
 - Security Operations
 - Threat Intelligence
-- Digital Forensics
-- Network Security
-- Infrastructure Security
-- Incident Analysis
-- Cybersecurity Risk Analysis
-- Access Security
-- Vulnerability Assessment
-- Ethical Hacking
-- Cybersecurity Awareness
-- Security Monitoring
-
----
-
-🔐 Cybersecurity Portfolio
-
-I am developing a practical cybersecurity portfolio to demonstrate technical capability through security assessments, investigations, labs and documented cybersecurity scenarios.
-
-📂 Featured Repository
-
-"Cybersecurity Portfolio" (https://github.com/Bjesutoye/cybersecurity-portfolio)
-
-The portfolio will cover areas including:
-
-- Security Operations
-- Threat Intelligence Analysis
 - Digital Forensics
 - Vulnerability Assessment
 - Incident Response
@@ -48,49 +37,58 @@ The portfolio will cover areas including:
 - Infrastructure Security
 - Cybersecurity Risk Analysis
 - Security Assessments
-- Ethical Hacking Labs
+- Ethical Hacking
+
+👉 "View Cybersecurity Portfolio" (https://github.com/Bjesutoye/cybersecurity-portfolio)
 
 ---
 
-💼 Professional Experience
+🔐 Professional Focus
 
-Lead IT Manager
+My professional focus includes:
 
-Connect International Resources Ltd | Manchester
+- Cybersecurity
+- Security Operations
+- Threat Intelligence
+- Digital Forensics
+- Network Security
+- Infrastructure Security
+- Incident Response
+- Vulnerability Management
+- Cybersecurity Risk Analysis
+- Access Security
+- Security Monitoring
+- Ethical Hacking
 
-My work includes:
+---
 
-- Leading IT infrastructure and cybersecurity activities
-- Supporting cybersecurity framework implementation
-- Strengthening organisational security controls
-- Conducting cybersecurity risk analysis
-- Supporting security and technology incident management
-- Managing infrastructure and systems operations
-- Supporting secure digital transformation
+💼 Professional Background
 
-Previous experience also includes:
+I currently work as a Lead IT Manager at Connect International Resources Ltd, with responsibility across IT infrastructure, cybersecurity initiatives, systems operations and technology delivery.
 
-- IT Support Engineering
-- Hospital IT systems and risk analysis
-- Systems and infrastructure support
-- Cybersecurity training
-- Web development
-- Digital technology management
+My wider experience includes:
+
+- IT Infrastructure Management
+- Cybersecurity Operations
+- Security Risk Analysis
+- Incident Documentation and Analysis
+- User Access Management
+- Systems Engineering
+- Cybersecurity Training
+- Technical Support
+- Digital Transformation
 
 ---
 
 🎓 Education
 
 MSc — Cybersecurity, Threat Intelligence & Forensics
-
 University of Salford
 
 MBA — Business Administration
-
 Newcastle College University Centre
 
 BSc — Computer Science
-
 Bowen University
 
 ---
@@ -105,24 +103,6 @@ Bowen University
 
 ---
 
-🧪 Current Cybersecurity Portfolio Development
-
-I am currently developing practical work across:
+🧪 Areas I'm Developing
 
 "Security Operations" • "Threat Intelligence" • "Digital Forensics" • "Network Security" • "Incident Response" • "Vulnerability Assessment" • "Infrastructure Security" • "Ethical Hacking"
-
-The aim is to document practical cybersecurity capability through structured technical exercises, assessments and security scenarios.
-
----
-
-🔗 Connect With Me
-
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Boluwatife_Jesutoye-blue?logo=linkedin)" (https://www.linkedin.com/in/boluwatife-jesutoye-729164114)
-
-""ORCID" (https://img.shields.io/badge/ORCID-0000--0002--4636--4390-green?logo=orcid)" (https://orcid.org/0000-0002-4636-4390)
-
----
-
-🚀 Current Focus
-
-Building and documenting practical cybersecurity projects across security operations, threat intelligence, digital forensics, network security and incident response.
